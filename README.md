@@ -1,14 +1,11 @@
 GLGF Dev Plugin Team
 
-Plugins Team Dev :
-SoundJoin-GLGF (Beta)
-.....
+Plugins Team Dev : SoundJoin-GLGF (Beta) ..... 
 
-Owner Team : 
-KagiamyWasen
+Next Plugins : GLGFTexter, GLGF Auth
 
-Contact :
-Email : animekagiamy@gmail.com
-Facebbok : www.facebook.com/kagiamywasen
+Owner Team : KagiamyWasen
+
+Contact : Email : animekagiamy@gmail.com Facebbok : www.facebook.com/kagiamywasen
 
 Thanks
